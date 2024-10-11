@@ -2,7 +2,7 @@
 I am Vighnesh Buddhivant, a dedicated Data Engineer based in Mumbai, India. I have strong foundation in data engineering technologies. Proficient in programming languages such as Python, Scala, and SQL. I leverage big data technologies like Apache Spark, Apache Kafka, and Hive to extract valuable insights from large datasets.<br><br>In my recent role at ADP, I developed and optimized ETL processes for large datasets and designed data orchestration workflows using Apache Airflow. Currently, I am gaining hands-on experience at CloudyML, where I work with various data engineering technologies and AWS services, including S3, EC2, RDS, Glue, Redshift, Lambda, DynamoDB, Kinesis, Firehose, SQS, and MSK, to develop scalable data pipelines.<br><br>I have worked on several projects, including a Real-Time Data Pipeline using Amazon MSK and AWS Lambda, a Serverless Data Pipeline with Kinesis and Firehose for Snowflake, and a Customer Churn Data Pipeline to analyze retention strategies.<br><br>I am eager to learn and grow in the data engineering domain, continuously seeking opportunities to enhance my skills while contributing to innovative, data-driven solutions. Connect with me on [LinkedIn](https://www.linkedin.com/in/vighneshbuddhivant) and explore my coding skills and projects on my [HackerRank Profile](https://www.hackerrank.com/profile/vighneshbuddhiv1).<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vighnesh_buddhivant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vighneshbuddhivant) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vSachin10) 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@ I am Vighnesh Buddhivant, a dedicated Data Engineer based in Mumbai, India. I ha
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vighneshbuddhivant&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vighneshbuddhivant&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vighneshbuddhivant&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ---
