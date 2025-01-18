@@ -8,7 +8,7 @@ I am **Vighnesh Buddhivant**, a dedicated **Data Engineer** based in Mumbai, Ind
   - Designed pipelines to extract named entities (e.g., customer names, product categories) using **spaCy** and **NLTK**, achieving 95% precision and 92% recall.  
   - Automated real-time workflows for customer sentiment analysis and inventory categorization.  
 - **Probability Scoring System for Fraud Detection**  
-  - Built an end-to-end **Apache Spark** pipeline for fraud detection, achieving 98% precision and 94% recall using ML models (Logistic Regression, Random Forest).  
+  - Built an end-to-end **Apache Spark** pipeline for fraud detection, achieving 98% precision and 94% recall using ML models .  
   - Deployed real-time and batch processing solutions integrated with monitoring dashboards and automated alerts.  
 
 ### **ADP, Hyderabad**  
@@ -29,9 +29,9 @@ I am **Vighnesh Buddhivant**, a dedicated **Data Engineer** based in Mumbai, Ind
 ### **CloudyML (Remote)**  
 **Data Engineer Intern (Part-Time)** (Sept 2024 – Oct 2024)  
 - Developed scalable **ETL pipelines** and data warehousing solutions using **AWS** services.  
-- **Serverless Data Pipeline with Kinesis and Firehose for Snowflake:** Real-time ingestion pipeline for Snowflake using **Lambda**, **API Gateway**, and **Kinesis Firehose**. [GitHub Link]  
-- **Real-Time Serverless Kafka Data Pipeline:** Built a high-efficiency pipeline using **Amazon MSK Serverless**, **SQS**, and **S3** for large-scale data integration. [GitHub Link]  
-- **Serverless Data Pipeline with AWS Glue:** Automated raw CSV transformations into **Parquet** format using **S3**, **Glue**, and **Lambda**, improving storage efficiency by 30%. [GitHub Link]  
+- **Serverless Data Pipeline with Kinesis and Firehose for Snowflake:** Real-time ingestion pipeline for Snowflake using **Lambda**, **API Gateway**, and **Kinesis Firehose**.  
+- **Real-Time Serverless Kafka Data Pipeline:** Built a high-efficiency pipeline using **Amazon MSK Serverless**, **SQS**, and **S3** for large-scale data integration.  
+- **Serverless Data Pipeline with AWS Glue:** Automated raw CSV transformations into **Parquet** format using **S3**, **Glue**, and **Lambda**, improving storage efficiency by 30%. 
 
 ---
 
