@@ -1,10 +1,7 @@
 # 💫 About Me:
-I am **Vighnesh Buddhivant**, a dedicated **Data Engineer** based in Mumbai, India, with a strong foundation in data engineering and big data technologies. I specialize in designing scalable data pipelines, optimizing ETL workflows, and developing robust systems for real-time and batch processing.  
 
-## 🎓 Education  
-- **Bachelor of Technology in Information Technology**  
-  Vasantdada Patil Pratishthan’s College of Engineering, Maharashtra (Aug 2017 – Aug 2021)  
-  GPA: 7.8/10.0  
+I am **Vighnesh Buddhivant**, a **Data Engineer** based in Pune with **1+ year of industry experience** across **two product-based companies** and **two internships**. I have hands-on experience in building and maintaining **ETL pipelines** using **Python, SQL, and PySpark**, and working with **Apache Spark, Kafka, and Hadoop**. I am familiar with **AWS services** such as **S3, Glue, Athena, RDS, and Kinesis** for batch and real-time data processing. I focus on writing efficient, scalable data solutions and continuously improving my skills in distributed data systems.
+
 
 ## 🌟 Skills
 
