@@ -1,7 +1,14 @@
 # 💫 About Me:
+### 👋 Hi, I’m Vighnesh Buddhivant
 
-I am **Vighnesh Buddhivant**, a **Data Engineer** based in Pune with **1+ year of industry experience** across **two product-based companies** and **two internships**. I have hands-on experience in building and maintaining **ETL pipelines** using **Python, SQL, and PySpark**, and working with **Apache Spark, Kafka, and Hadoop**. I am familiar with **AWS services** such as **S3, Glue, Athena, RDS, and Kinesis** for batch and real-time data processing. I focus on writing efficient, scalable data solutions and continuously improving my skills in distributed data systems.
+Aspiring **Junior Data Engineer** with **2 years of industry experience** (including full-time roles and internships), currently working as a **Test Engineer** with strong exposure to **data engineering projects and backend data validation**.
 
+I have hands-on experience with **SQL, Python, PySpark, Apache Airflow**, and **Apache Spark** for building and monitoring ETL pipelines and data workflows. I’ve worked on **real-time and serverless data pipelines on AWS**, using services like **S3, Glue, Lambda, Kinesis, EMR, and Databricks**.
+
+I bring a **quality-first mindset** to data engineering—focusing on **data accuracy, reliability, and production-ready solutions**. Actively transitioning into the **data engineering domain** and continuously building projects to strengthen my skills.
+
+📌 **Tech Stack:** SQL | Python | PySpark | Spark | Airflow | AWS | Databricks
+📌 **Interests:** Data Engineering, Real-Time Pipelines, Cloud & Big Data Systems
 
 ## 🌟 Skills
 
